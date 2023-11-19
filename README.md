@@ -31,6 +31,10 @@
 
 ## Descrição dos Cenários
 
+![2 0-homepage](https://github.com/cmpsleo/senac-pi-sistemas-web-2023/assets/144066589/da52247b-cac7-4682-8379-e3f245ae2a44)
+
+
+
 ### Cadastrar Pessoa Física
 
 - **Cenário Principal:**
