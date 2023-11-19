@@ -47,7 +47,15 @@
     4. O usuário clica no botão "Salvar".
     5. O sistema valida os dados e cadastra a pessoa física.
     6. O sistema exibe uma mensagem de confirmação.
-
+   
+   ![3 0-matriculas](https://github.com/cmpsleo/senac-pi-sistemas-web-2023/assets/144066589/c1a85d62-aa60-4bb0-855c-b5cb0be5f9d7)
+  
+   ![3 1-matriculas-cadastro](https://github.com/cmpsleo/senac-pi-sistemas-web-2023/assets/144066589/8f4a0fc1-2f69-4aa5-9d7d-22d781a9c4e3)
+  
+   ![3 2-matriculas-detalhes](https://github.com/cmpsleo/senac-pi-sistemas-web-2023/assets/144066589/bb04162c-1e70-48c5-a0d3-29a62c71438a)
+  
+   ![3 3-matriculas-confirmacao](https://github.com/cmpsleo/senac-pi-sistemas-web-2023/assets/144066589/849ef1d9-2f76-4484-a54a-9a3c64ac1cb3)
+  
 - **Cenário Alternativo 1:**
   - *Passo 5:* Se os dados não forem válidos, o sistema exibe uma mensagem de erro e retorna ao passo 2.
 
