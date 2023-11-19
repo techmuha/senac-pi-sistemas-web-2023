@@ -28,7 +28,7 @@
 10. Consultar Dados de Aluno
 
 ## Diagrama de Casos de Uso
-(Insira aqui a representação gráfica do diagrama de casos de uso)
+![0 0-fluxo](https://github.com/cmpsleo/senac-pi-sistemas-web-2023/assets/144066589/fabb6604-5416-4f8f-bdf0-5e3283ce8484)
 
 ## Descrição dos Cenários
 
